@@ -5,7 +5,7 @@ Data persistence is handled with MongoDB using JPA MongoRepository.
 
 
 
-https://github.com/user-attachments/assets/8bd1948a-8ff7-4719-9f13-bedb255216f1
+[Watch the demo video](https://github.com/luisdonin/Police-Report-Management-Backend-Rest-API/raw/main/video/demo.mp4)
 
 
 <img width="1353" height="800" alt="image" src="https://github.com/user-attachments/assets/5b5ad326-565b-4d86-a373-5275baf24d15" />
