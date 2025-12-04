@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 @SpringBootApplication
 @EnableMongoRepositories("com.br.td.utfpr.edu.tsi.cadastro_usuarios.repository")
 @ComponentScan("com.br.td.utfpr.edu.tsi.cadastro_usuarios")
-@PropertySource("file:application.properties")
+//@PropertySource("file:/home/donin/delegacia/application.properties")
 public class Main {
 
     public static void main(String[] args) {

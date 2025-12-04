@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.br.td.utfpr.edu.tsi</groupId>
-    <artifactId>cadastro-usuarios</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>boletim-api</artifactId>
+    <version>0.0.1</version>
     <name>cadastro.usuarios</name>
     <description>cadastro.usuarios</description>
     <url/>
